@@ -1,0 +1,7 @@
+{
+  "name": "Evidencia de Aprendizaje 8",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
